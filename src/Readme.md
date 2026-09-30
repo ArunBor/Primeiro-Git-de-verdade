@@ -1,0 +1,1 @@
+Vamos comecar meu primeiro Git com intellijw
